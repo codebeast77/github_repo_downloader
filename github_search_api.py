@@ -5,7 +5,7 @@ import pandas as pd
 
 # Paste your Access token here
 # To create an access token - https://github.com/settings/tokens
-token = "access_token=" + "27badd9b5583986a813e7fe3e8b207d4be1e77be"
+token = "access_token=" + "Your access token here"
 
 # Base API Endpoint
 base_api_url = 'https://api.github.com/'

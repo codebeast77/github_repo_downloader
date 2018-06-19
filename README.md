@@ -1,4 +1,4 @@
-# GitHub Search API
+# GitHub Repo Downloader
 A simple Python script to get details of no.of best matching results for any search query on GitHub
 
 The CSV generated is tab-seperated ( /t )
